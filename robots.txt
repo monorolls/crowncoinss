@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://www.crowncoinscasino.site/sitemap.xml
+Sitemap: https://crowncoinss.pages.dev/sitemap.xml
